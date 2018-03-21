@@ -1,0 +1,11 @@
+$ git log
+commit b8b20b1938d0936b92d6b462ef2544c5128dd7a9 (HEAD -> logging, 
+origin/master, master)
+Author: Kadir Ali <kadir.ali.1@hotmail.com>
+Date:   Wed Mar 21 16:50:26 2018 +0100
+
+    modified l1.txt
+
+IO@IO MINGW64 ~/lab1 (logging)
+$
+
